@@ -1,0 +1,20 @@
+[
+            {
+                "id": "etiqueta01",
+                "nombre": "Artesano Manos Negras",
+                "descripcion": "vino tinto malbec",                
+                "precio": 3300,
+                "stock": 6                
+            },
+
+           {
+                "id": "etiqueta02",
+                "nombre": "Buescapleitos La Azul",
+                "descripcion": "vino tinto bonarda",                
+                "precio": 1950,
+                "stock": 6
+                
+            }
+        ]
+        
+    
